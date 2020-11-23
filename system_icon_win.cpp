@@ -5,7 +5,7 @@
 #include <cstddef>
 #include <cwchar>
 #include <memory>
-#include <cstdlib>
+#include <system_error>
 
 #include <algorithm>
 namespace Gdiplus
